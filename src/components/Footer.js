@@ -4,6 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 
 const Footer = () => {
     return (
+        
         <>
             <footer>
                 <div className="footer max-w-full mx-auto px-4 sm:px-6 bg-gray-100 border-t border-b py-30">
@@ -98,7 +99,7 @@ const Footer = () => {
                         to="#"
                         className=" hover:text-gray-900"
                     >
-                        Molad e Konsult
+                        Ahmad ALlahham
                     </HashLink>. All rights reserved.
                     </div>
                 </div>
